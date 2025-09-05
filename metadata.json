@@ -1,0 +1,5 @@
+{
+  "name": "AI Hair Color Changer",
+  "description": "Upload a character image and select a preset hair color. The AI will magically change the character's hair color in the image and generate a new version.",
+  "requestFramePermissions": []
+}
